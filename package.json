@@ -1,6 +1,6 @@
 {
     "name": "simpler-console-log",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Just one word, made for quick testing and lazy people",
     "main": "index.js",
     "publishConfig": {
